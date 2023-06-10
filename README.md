@@ -3,6 +3,7 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
 Товарищи, стремитесь к возрождению СССР!
+
 ![IMG_4611](https://github.com/Plasma4004/Plasma4004/assets/110027790/56e47424-f038-4515-aaa9-46c55081ac8c)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
