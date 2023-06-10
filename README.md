@@ -8,18 +8,13 @@
 ---
 <div align="center"> <img src="https://metrics.lecoq.io/Plasma4004?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-~~水~~码工具：
+~~**水**~~码工具：
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=fff) ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=Debian&logoColor=fff) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=fff) ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=fff)
 
-打算：
+学习打算：
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff) ![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=Java&logoColor=fff)
 
-
-
-
-
-
-
-
+---
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plasma4004" /> </div>
 
