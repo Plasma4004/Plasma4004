@@ -11,4 +11,4 @@
 
 
 
-![](https://count.getloli.com/get/@:Plasma4004?theme=gelbooru）
+![Counter](https://count.getloli.com/get/@:Plasma4004?theme=gelbooru）
