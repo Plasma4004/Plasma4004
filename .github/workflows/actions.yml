@@ -12,9 +12,8 @@ jobs:
     - name: 检出代码
       uses: actions/checkout@v2
       
-    - name: 更新个性化主题
-      run: git pull
-        # 在这里编写更新个性化主题的脚本或命令
-        # 例如，可以从特定的存储库或文件中获取新的主题内容
-        # 然后将主题内容应用到适当的位置或文件中
-        # 最后使用 Git 命令将更新后的内容推送到 GitHub 仓库
+    - name: 提交并推送
+      run: |
+        git config user.name "Plasma4004"
+        git config user.email "Plasma_mc@outlook.com"
+        git push Plasma4004 main  # 替换成你的主分支名称
