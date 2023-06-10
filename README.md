@@ -10,7 +10,7 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/Plasma4004?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-~~**水**~~码工具：
+~~水~~码工具：
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
