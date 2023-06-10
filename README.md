@@ -44,9 +44,4 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
-<img src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
-
 ![Counter](https://count.getloli.com/get/@Plasma4004?theme=gelbooru)
