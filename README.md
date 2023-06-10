@@ -7,9 +7,6 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
-<img src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
-</div>
 <div align="center"> <img src="https://metrics.lecoq.io/Plasma4004?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ~~**水**~~码工具：
