@@ -9,7 +9,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
-**这是我的喵喵**
+**这是我的喵喵～（只准看不准摸哦～）**
 
 ![image](https://github.com/Plasma4004/Plasma4004/assets/110027790/40cb9d68-00bb-4dce-8560-60647d992906)
 
