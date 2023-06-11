@@ -1,5 +1,5 @@
 # Here is Plasma4004. 
-##你可以叫我小苒，也可以叫我<abbr title="是个笨蛋起的">mc</abbr>
+##你可以叫我小苒，也可以叫我mc（~~是一个笨蛋起的~~）
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
