@@ -1,4 +1,5 @@
 # Here is Plasma4004. 
+##你可以叫我小苒，也可以叫我<abbr title="当然不是那个MC">mc</abbr>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
@@ -7,7 +8,8 @@
 ![IMG_4611](https://github.com/Plasma4004/Plasma4004/assets/110027790/56e47424-f038-4515-aaa9-46c55081ac8c)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
-##这是我的喵喵
+
+**这是我的喵喵**
 
 ![image](https://github.com/Plasma4004/Plasma4004/assets/110027790/40cb9d68-00bb-4dce-8560-60647d992906)
 
@@ -15,7 +17,7 @@
 
 <div align="center"> <img src="https://metrics.lecoq.io/Plasma4004?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-~~水~~码工具：
+**~~水~~** 码工具：
 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
