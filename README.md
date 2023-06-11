@@ -1,4 +1,4 @@
-### here is Plasma4004. 
+### Here is Plasma4004. 
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
@@ -8,7 +8,7 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
-![IMG_6574](https://github.com/Plasma4004/Plasma4004/assets/images/IMG_6574.png)
+![image](https://github.com/Plasma4004/Plasma4004/assets/110027790/40cb9d68-00bb-4dce-8560-60647d992906)
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
