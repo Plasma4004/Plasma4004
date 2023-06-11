@@ -8,6 +8,10 @@
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
+![IMG_6574](https://github.com/Plasma4004/Plasma4004/assets/images/IMG_6574.png)
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
+
 <div align="center"> <img src="https://metrics.lecoq.io/Plasma4004?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 ~~水~~码工具：
