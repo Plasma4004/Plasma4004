@@ -1,12 +1,12 @@
-name: Update Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
+#name: Update Readme
+#
+#on:
+#  workflow_dispatch:
+#  schedule:
+#    - cron: "0 */6 * * *"
+#
+#jobs:
+#  update-readme:
+#    name: Update this repo's README
+#    runs-on: ubuntu-latest
     
