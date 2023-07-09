@@ -12,8 +12,6 @@
 
 Plasma意为"等离子(血浆)"(~~是从一张图中得来的~~)，而此处的4004是为了纪念牙膏厂<sub>intel</sub>的世界上第一个单芯片微处理器(**开启了计算和芯片产业的伟大时代**)
 
-![IMG_4611](https://github.com/Plasma4004/Plasma4004/assets/110027790/56e47424-f038-4515-aaa9-46c55081ac8c)
-
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
 ##### 这是我的喵喵～（只准看不准摸哦～）
