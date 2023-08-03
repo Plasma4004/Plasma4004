@@ -52,9 +52,9 @@ Intel(R) Wi-Fi 6 AX201 160MHz
 
 **ROM:** 
 
-{EMMC1} WD PC SN560 SDDPNQE-1T00-1002[C:\]
+{EMMC1} WD PC SN560 SDDPNQE-1T00-1002[`C:\`]
 
-{EMMC2} Samsung SSD 990 PRO 2TB[D:\]
+{EMMC2} Samsung SSD 990 PRO 2TB[`D:\`]
           
 
 **RAM:** 
