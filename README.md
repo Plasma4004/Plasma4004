@@ -14,7 +14,7 @@ Plasma意为"等离子(血浆)"(~~是从一张图中得来的~~)，而此处的4
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
-#### 本人的设备配置
+#### 本人的设备及配置
 
 ![FX507VV](https://github.com/Plasma4004/Plasma4004/assets/110027790/439e1803-dcdd-4065-bea9-5617c467a0d7)
 
