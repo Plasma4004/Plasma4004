@@ -19,15 +19,25 @@ Plasma意为"等离子(血浆)"(~~是从一张图中得来的~~)，而此处的4
 ![FX507VV](https://github.com/Plasma4004/Plasma4004/assets/110027790/439e1803-dcdd-4065-bea9-5617c467a0d7)
 
 **NAME:** ASUS TUF Gaming F15[TX4]
+
 **SYSTEM:** Microsoft Windows 11 家庭中文版 Insider Preview 64位 10.0.23516
+
 **BIOS:** FX507VV.314
+
 **CPU:** 13th Gen Intel(R) Core(TM) i9-13900H
+
 **GPU:** Intel(R) Iris(R) Xe Graphics 
+
          NVIDIA GeForce RTX 4060Laptop GPU
+         
 **NIC:** Intel(R) Wi-Fi 6 AX201 160MHz
+
 **ROM:** **EMMC1** WD PC SN560 SDDPNQE-1T00-1002[C:\]
+
           **EMMC2** Samsung SSD 990 PRO 2TB[D:\]
+          
 **RAM:** 16GB
+
 **COST:** 9499+1299=**10798** **[~~EXPENSIVE~~]**
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
