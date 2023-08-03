@@ -20,6 +20,8 @@ Plasma意为"等离子(血浆)"(~~是从一张图中得来的~~)，而此处的4
 
 ![image](https://github.com/Plasma4004/Plasma4004/assets/110027790/8052cce1-f4ea-46bf-a8eb-3e4cd14a5d27)
 
+![image](https://github.com/Plasma4004/Plasma4004/assets/110027790/70dbf8a4-822c-4dc8-b997-851d3064b051)
+
 <img width="200%" src="https://cdn.jsdelivr.net/gh/Plasma4004/Plasma4004/assets/images/hr.gif" />
 
 <div align="center"> <img src="https://metrics.lecoq.io/Plasma4004?template=classic&config.timezone=Asia%2FShanghai"> </div>
