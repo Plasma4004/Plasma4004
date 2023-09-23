@@ -24,7 +24,7 @@ Microsoft Windows 11 家庭中文版 Insider Preview 64位 10.0.23541
 
 **BIOS:** 
 
-FX507VV.317
+FX507VV.320
 
 
 **CPU:** 
